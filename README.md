@@ -2,7 +2,8 @@
 - 👀 I’m interested in learning new things  
 - 🌱 I’m currently learning cpp with dsa 
 - 💞️ I’m looking to collaborate on projects 
-- 📫 To reach you you can connect with linkdin or insta 
+- 📫 To reach you you can connect with Linkdin
+  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
