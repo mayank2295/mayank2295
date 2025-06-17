@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Mayank! 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Aspiring+Java+Developer+%7C+AI+%26+Data+Science+Learner;B.Tech+CSE;Follow+for+Tech+%26+Coding+Stuff!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Aspiring+Java+Developer+%7C+AI+%26+Data+Science+Learner;B.Tech+CSE">
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mayank22&color=green)
