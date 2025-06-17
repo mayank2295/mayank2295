@@ -70,7 +70,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank2295&theme=dark">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank2295&" alt="github Streaks" />
 </p>
 
 ### 👨‍💻 Connect with Me:
