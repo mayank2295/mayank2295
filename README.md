@@ -71,8 +71,10 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mayank2295&theme=radical" alt="GitHub Streak" />
+  <img src="<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mayank2295" alt="GitHub Streak" />
 </p>
+
 
 
 ### 👨‍💻 Connect with Me:
