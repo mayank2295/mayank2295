@@ -69,9 +69,9 @@
 </p>
 
 ---
-
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank2295&" alt="Github Streaks" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank22&theme=dark">
+</p>
 
 ### 👨‍💻 Connect with Me:
 
