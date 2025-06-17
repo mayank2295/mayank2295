@@ -70,9 +70,10 @@
 
 ---
 
-<p align = "center" >
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank2295&" alt="Github Streaks" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank2295&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ### 👨‍💻 Connect with Me:
 
