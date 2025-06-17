@@ -9,13 +9,13 @@
 ---
 
 ### 🚀 About Me:
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFkOXF6YW1reHBudnZ6am5xYWVjd2NndzEzaW1vNm9xYjVubmd1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 - 🎓 **B.Tech CSE @ Lovely Professional University**  
 - 🌱 Currently focusing on **Java Full Stack Development**  
 - 🚀 Learning **Spring Boot, Docker, HTML/CSS/JS, Kafka**  
 - 🧠 Exploring **AI & Data Science**  
-- 📢 Follow me for clean code and cool projects!  
+- 📢 Follow me for clean code and guidance!  
 
 ---
 
