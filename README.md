@@ -70,11 +70,7 @@
 
 ---
 
-<p align="center">
-  <img src="<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mayank2295" alt="GitHub Streak" />
-</p>
-
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank2295&" alt="Github Streaks" /></p>
 
 
 ### 👨‍💻 Connect with Me:
