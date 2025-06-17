@@ -56,6 +56,18 @@
 
 ---
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank2295&show_icons=true&locale=en&layout=compact" alt="mayank2295" /></p>
+
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank2295&show_icons=true&locale=en" alt="mayank2295" /></p>
+
+---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank2295&" alt="mayank2295" /></p>
+---
+
 ### 👨‍💻 Connect with Me:
 
 <p align="left">
