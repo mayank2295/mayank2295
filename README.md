@@ -71,7 +71,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank2295&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank2295&" alt="GitHub Streak" />
 </p>
 
 
