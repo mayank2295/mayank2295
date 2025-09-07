@@ -8,7 +8,7 @@
   <em>Turning coffee into code, one commit at a time</em>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mayank2295&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=mayank2295&color=00ff00)
 
 ## 🚀 About Me
 <img align="right" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFkOXF6YW1reHBudnZ6am5xYWVjd2NndzEzaW1vNm9xYjVubmd1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
@@ -64,10 +64,10 @@
 ## 🏆 Featured Projects
 
 <a href="https://github.com/mayank2295/Healthcare-Recommendation-Chatbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayank2295&repo=Healthcare-Recommendation-Chatbot&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayank2295&repo=Healthcare-Recommendation-Chatbot&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/mayank2295/Lifecare">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayank2295&repo=Lifecare&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayank2295&repo=Lifecare&theme=chartreuse-dark" />
 </a>
 
 ### 🎬 Movie Ticket Booking System
@@ -81,20 +81,26 @@ A responsive web platform promoting tech education resources with mobile-friendl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank2295&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayank2295&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank2295&theme=radical" alt="GitHub Streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank2295&theme=chartreuse-dark" alt="GitHub Streaks" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank2295&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank2295&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 </p>
 
-[![Mayank's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayank2295&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mayank's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayank2295&theme=github-compact&bg_color=0D1117&color=4AD616&line=4AD616&point=1EAE25&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mayank2295&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mayank2295&theme=matrix&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/mayank2295/mayank2295/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
 ## 👨‍💻 Connect with Me
 
