@@ -99,8 +99,9 @@ A responsive web platform promoting tech education resources with mobile-friendl
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/mayank2295/mayank2295/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github.com/mayank2295/mayank2295/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
+
 
 ## 👨‍💻 Connect with Me
 
