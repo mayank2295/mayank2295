@@ -116,7 +116,7 @@ I'm interested in collaborating on Java, Data Science, or Web Development projec
 If you have an idea or need help with a project, let's connect!
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/mayankg22">
+  <a href="https://buymeacoffee.com/mayankguptl">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Support Me" width="150">
   </a>
 </p>
