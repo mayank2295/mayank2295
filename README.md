@@ -1,32 +1,44 @@
 <!-- Header Banner with Gradient Animation -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:00FF9F&height=200&section=header&text=Mayank%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18"/>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6366F1,100:8B5CF6&height=200&section=header&text=Mayank%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SDE%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<!-- Animated Intro -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <samp>&nbsp;Welcome to my digital playground!&nbsp;</samp>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<!-- Profile Section with Image -->
+<table>
+  <tr>
+    <td width="35%">
+      <img src="profile.png" width="100%" style="border-radius: 15px;" alt="Mayank Gupta"/>
+    </td>
+    <td width="65%">
+      <h2>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+        Hey there! I'm <strong>Mayank</strong>
+      </h2>
+      <p>
+        <a href="https://mayank2308.vercel.app/">
+          <img src="https://img.shields.io/badge/🌐_Portfolio-mayank2308.vercel.app-6366F1?style=for-the-badge&labelColor=0D1117"/>
+        </a>
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/mayank-g22/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        <a href="https://github.com/mayank2295">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://leetcode.com/u/mayankgupta01/">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+        </a>
+      </p>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=mayank2295&style=for-the-badge&color=8B5CF6&labelColor=0D1117" alt="Profile Views"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<!-- Typing SVG with Multiple Lines -->
+<!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%92%BB+Full+Stack+Java+Developer;%F0%9F%A7%A0+AI+%26+Data+Science+Explorer;%F0%9F%9A%80+Building+Solutions+That+Matter" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Profile Badges -->
-<p align="center">
-  <a href="https://github.com/mayank2295?tab=followers">
-    <img src="https://img.shields.io/github/followers/mayank2295?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00FF9F" alt="followers">
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=mayank2295&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://github.com/mayank2295">
-    <img src="https://img.shields.io/github/stars/mayank2295?label=Stars&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00FF9F" alt="stars">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%93%8A+Data+Analyst+%7C+Data+Scientist;%F0%9F%A4%96+Machine+Learning+%26+Predictive+Modeling;%F0%9F%90%8D+Python+%7C+SQL+%7C+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,30 +48,27 @@
 <!-- About Me Section -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3ze96rber" width="30"> &nbsp;About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBjcm1oZHczdTJhenFiNjBsczc5OHNxZnJkcGlqbWt1NWU2ZG15NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
 
 ```yaml
 name: Mayank Gupta
 located_in: India
-education: B.Tech CSE @ Lovely Professional University
+education: B.Tech CSE (Specialization: Data Science)
+          @ Lovely Professional University
 
-current_focus:
-  - Java Full Stack Development
-  - AI & Machine Learning
-  - Building Scalable Applications
+current_role_seeking:
+  - Software Development Engineer (SDE)
+  - Data Analyst
+  - Data Scientist
 
-fields_of_interests:
-  - Backend Development
-  - Data Science
-  - System Design
-  - DevOps
+core_skills:
+  - Python | SQL | Java
+  - Machine Learning & Predictive Modeling
+  - Data Analysis & Visualization
+  - Problem Solving & DSA
 
-hobbies:
-  - Competitive Coding
-  - Tech Blogging
-  - Open Source
-
-fun_fact: "I debug with print statements... and I'm proud of it! 😄"
+passion: "Transforming raw data into actionable insights
+         and building ML models that solve real problems"
 ```
 
 <br clear="both">
@@ -68,81 +77,96 @@ fun_fact: "I debug with print statements... and I'm proud of it! 😄"
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Tech Stack Section -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Arsenal
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack
 
 <details open>
-<summary><b>🎯 Core Languages</b></summary>
+<summary><b>👨‍💻 Languages</b></summary>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark&perline=4" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 </details>
 
 <details open>
-<summary><b>🌐 Frontend Mastery</b></summary>
+<summary><b>📊 Data Science & Machine Learning</b></summary>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark&perline=5" />
-  </a>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Frameworks</b></summary>
+<summary><b>📈 Data Analysis & BI</b></summary>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka&theme=dark&perline=4" />
-  </a>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
 </p>
 </details>
 
 <details open>
-<summary><b>💾 Database & Cloud</b></summary>
+<summary><b>🛠️ Tools & Platforms</b></summary>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,aws&theme=dark&perline=5" />
-  </a>
-</p>
-</details>
-
-<details open>
-<summary><b>🛠️ DevOps & Tools</b></summary>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,idea&theme=dark&perline=7" />
-  </a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 </details>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Currently Learning -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Currently Leveling Up
+<!-- LeetCode Stats -->
+## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="25"> LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/mayankgupta01/">
+    <img src="https://leetcard.jacoblin.cool/mayankgupta01?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- What I Do Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> What I Do
 
 <table align="center">
   <tr>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Spring_Boot-Advanced-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-      <br><sub><b>Microservices Architecture</b></sub>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/machine-learning.png" width="60"/>
+      <br><b>Machine Learning</b>
+      <br><sub>Building predictive models<br>& ML pipelines</sub>
     </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-      <br><sub><b>AI Applications</b></sub>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/combo-chart--v1.png" width="60"/>
+      <br><b>Data Analysis</b>
+      <br><sub>Extracting insights from<br>complex datasets</sub>
     </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-      <br><sub><b>CI/CD Pipelines</b></sub>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/dashboard-layout.png" width="60"/>
+      <br><b>Visualization</b>
+      <br><sub>Creating interactive<br>dashboards & reports</sub>
     </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/System_Design-0052CC?style=for-the-badge&logo=confluence&logoColor=white"/>
-      <br><sub><b>Scalable Systems</b></sub>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
+      <br><b>Problem Solving</b>
+      <br><sub>DSA & competitive<br>programming</sub>
     </td>
   </tr>
 </table>
@@ -155,37 +179,35 @@ fun_fact: "I debug with print statements... and I'm proud of it! 😄"
 
 <div align="center">
   <a href="https://github.com/mayank2295/Healthcare-Recommendation-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayank2295&repo=Healthcare-Recommendation-Chatbot&theme=react&bg_color=0D1117&border_color=00FF9F&icon_color=00D9FF&title_color=00FF9F" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayank2295&repo=Healthcare-Recommendation-Chatbot&theme=tokyonight&bg_color=0D1117&border_color=8B5CF6&icon_color=6366F1&title_color=8B5CF6" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/mayank2295/Lifecare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayank2295&repo=Lifecare&theme=react&bg_color=0D1117&border_color=00FF9F&icon_color=00D9FF&title_color=00FF9F" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayank2295&repo=Lifecare&theme=tokyonight&bg_color=0D1117&border_color=8B5CF6&icon_color=6366F1&title_color=8B5CF6" />
   </a>
 </div>
 
 <br>
 
-<!-- Project Cards -->
 <div align="center">
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🎬 Movie Ticket Booking System</h3>
+      <h3 align="center">🏥 Healthcare Recommendation Chatbot</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logoColor=white"/>
       </p>
-      <p align="center">A seamless movie ticket booking experience with intuitive UI and secure transactions</p>
+      <p align="center">AI-powered chatbot providing personalized healthcare recommendations using ML algorithms</p>
     </td>
     <td width="50%">
-      <h3 align="center">🎓 IT for Quality Education</h3>
+      <h3 align="center">💊 Lifecare</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white"/>
       </p>
-      <p align="center">Responsive web platform promoting tech education resources</p>
+      <p align="center">Healthcare data analysis project focused on patient insights and predictions</p>
     </td>
   </tr>
 </table>
@@ -199,36 +221,36 @@ fun_fact: "I debug with print statements... and I'm proud of it! 😄"
 
 <p align="center">
   <a href="https://github.com/mayank2295">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayank2295&show_icons=true&theme=react&bg_color=0D1117&border_color=00FF9F&icon_color=00D9FF&title_color=00FF9F&text_color=FFFFFF&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayank2295&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=8B5CF6&icon_color=6366F1&title_color=8B5CF6&text_color=FFFFFF&hide_border=false&include_all_commits=true&count_private=true"/>
     &nbsp;&nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank2295&layout=compact&theme=react&bg_color=0D1117&border_color=00FF9F&title_color=00FF9F&text_color=FFFFFF&hide_border=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank2295&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=8B5CF6&title_color=8B5CF6&text_color=FFFFFF&hide_border=false"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mayank2295">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank2295&theme=react&background=0D1117&border=00FF9F&stroke=00FF9F&ring=00D9FF&fire=00FF9F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF9F&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank2295&theme=tokyonight&background=0D1117&border=8B5CF6&stroke=8B5CF6&ring=6366F1&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=6366F1&dates=FFFFFF" alt="GitHub Streak"/>
   </a>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/mayank2295">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank2295&custom_title=Mayank's%20Contribution%20Graph&bg_color=0D1117&color=00FF9F&line=00D9FF&point=00FF9F&area_color=00D9FF&area=true&hide_border=true" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank2295&custom_title=Mayank's%20Contribution%20Graph&bg_color=0D1117&color=8B5CF6&line=6366F1&point=8B5CF6&area_color=6366F1&area=true&hide_border=true" alt="Activity Graph"/>
   </a>
 </p>
 
 <!-- Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mayank2295&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mayank2295&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
   </a>
 </p>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Snake Animation -->
+<!-- Contribution Snake -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Contribution Snake
 
 <p align="center">
@@ -246,35 +268,40 @@ fun_fact: "I debug with print statements... and I'm proud of it! 😄"
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
 
 <p align="center">
+  <a href="https://mayank2308.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/mayank-g22/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://github.com/mayank2295">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/mayankgupta01/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/mayank_g2207/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
-<!-- Collaboration Section -->
+<!-- Open to Opportunities -->
 <div align="center">
-  <h3>💡 Open to Collaborations</h3>
+  <h3>🚀 Open to Opportunities</h3>
   <p>
-    <em>I'm interested in working on Java, Data Science, or Web Development projects.</em><br>
-    <em>Have an exciting idea? Let's build something amazing together!</em>
+    <em>Looking for <strong>SDE</strong> and <strong>Data Analyst</strong> roles</em><br>
+    <em>Passionate about Machine Learning, Data Science & building impactful solutions</em><br>
+    <em>Let's connect and create something amazing together!</em>
   </p>
 </div>
 
 <br>
 
-<!-- Support Section -->
+<!-- Support -->
 <p align="center">
   <a href="https://buymeacoffee.com/mayankguptl">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
@@ -284,13 +311,13 @@ fun_fact: "I debug with print statements... and I'm proud of it! 😄"
 <!-- Quote -->
 <div align="center">
   <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Data%20is%20the%20new%20oil.%20It%E2%80%99s%20valuable%2C%20but%20if%20unrefined%20it%20cannot%20really%20be%20used.&author=Clive%20Humby" alt="Quote"/>
 </div>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:00FF9F&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6366F1,100:8B5CF6&height=120&section=footer"/>
 
-<!-- Visitor Counter with Style -->
+<!-- Visitor Counter -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/mayank2295/count.svg" alt="Visitor Count"/>
 </p>
