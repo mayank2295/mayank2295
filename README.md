@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="35%">
-      <img src="profile.png" width="100%" style="border-radius: 15px;" alt="Mayank Gupta"/>
+      <img src="Screenshot 2026-01-28 044618.png" width="100%" style="border-radius: 15px;" alt="Mayank Gupta"/>
     </td>
     <td width="65%">
       <h2>
