@@ -76,57 +76,186 @@ passion: "Transforming raw data into actionable insights
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Tech Stack Section -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack
+<!-- ==================== ENHANCED TECH STACK SECTION ==================== -->
 
-<details open>
-<summary><b>👨‍💻 Languages</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-</details>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Universe
 
-<details open>
-<summary><b>📊 Data Science & Machine Learning</b></summary>
-<br>
+<!-- Animated Tech Header -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&width=500&lines=%3C%2F%3E+Languages+%26+Frameworks;%F0%9F%A7%AA+Data+Science+Stack;%F0%9F%9B%A0%EF%B8%8F+Tools+I+Work+With" alt="Tech Stack" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
-</details>
 
-<details open>
-<summary><b>📈 Data Analysis & BI</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
-</p>
-</details>
+<!-- Languages Section with Glow Effect -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> 
+  &nbsp;Programming Languages&nbsp;
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30">
+</h3>
 
-<details open>
-<summary><b>🛠️ Tools & Platforms</b></summary>
+<div align="center">
+  <a href="https://www.python.org/">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
+  </a>
+</div>
+
 <br>
+
+<!-- Animated Progress Bars -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank2295&layout=donut-vertical&theme=tokyonight&bg_color=0D1117&border_color=8B5CF6&title_color=8B5CF6&text_color=FFFFFF&hide_border=false" height="200"/>
 </p>
-</details>
+
+<br>
+
+<!-- Data Science & ML Section -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="30"> 
+  &nbsp;Data Science & Machine Learning&nbsp;
+  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="30">
+</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://pandas.pydata.org/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+        </a>
+        <br><b>Pandas</b>
+      </td>
+      <td align="center" width="96">
+        <a href="https://numpy.org/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+        </a>
+        <br><b>NumPy</b>
+      </td>
+      <td align="center" width="96">
+        <a href="https://scikit-learn.org/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn" />
+        </a>
+        <br><b>Sklearn</b>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.tensorflow.org/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+        </a>
+        <br><b>TensorFlow</b>
+      </td>
+      <td align="center" width="96">
+        <a href="https://keras.io/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
+        </a>
+        <br><b>Keras</b>
+      </td>
+      <td align="center" width="96">
+        <a href="https://opencv.org/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
+        </a>
+        <br><b>OpenCV</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Data Visualization Section -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"> 
+  &nbsp;Data Visualization & Analytics&nbsp;
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30">
+</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://matplotlib.org/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+        </a>
+        <br><b>Matplotlib</b>
+      </td>
+      <td align="center" width="96">
+        <a href="https://seaborn.pydata.org/">
+          <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
+        </a>
+        <br><b>Seaborn</b>
+      </td>
+      <td align="center" width="96">
+        <a href="https://plotly.com/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly" />
+        </a>
+        <br><b>Plotly</b>
+      </td>
+      <td align="center" width="96">
+        <a href="https://powerbi.microsoft.com/">
+          <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" />
+        </a>
+        <br><b>Power BI</b>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+          <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel" />
+        </a>
+        <br><b>Excel</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Development Tools Section -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> 
+  &nbsp;Development Environment&nbsp;
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30">
+</h3>
+
+<div align="center">
+  <a href="https://github.com/">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
+  </a>
+  <a href="https://jupyter.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50" />
+  </a>
+  <a href="https://colab.research.google.com/">
+    <img src="https://img.icons8.com/color/48/google-colab.png" alt="Colab" width="50" height="50" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+  </a>
+</div>
+
+<br>
+
+<!-- Animated Skills Banner -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,git,github,vscode,linux&theme=dark&perline=8" />
+</p>
+
+<!-- Tech Stack Animation -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayank2295&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayank2295&theme=tokyonight" />
+</p>
+
+<!-- ==================== END OF TECH STACK SECTION ==================== -->
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -149,22 +278,22 @@ passion: "Transforming raw data into actionable insights
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/000000/machine-learning.png" width="60"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRqaWd6MXRtYnl0cHN3aTBicGJ5MjZqaW9oaTlhbmN5bG5qcmp6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"/>
       <br><b>Machine Learning</b>
       <br><sub>Building predictive models<br>& ML pipelines</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/000000/combo-chart--v1.png" width="60"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI4eXJmZnVnOHMxdXh3NzJ2d2s2OWFrZWVtaml3N2FhaGFzc3ByZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="80"/>
       <br><b>Data Analysis</b>
       <br><sub>Extracting insights from<br>complex datasets</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/000000/dashboard-layout.png" width="60"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRlOWF3bWdlNWdtNTdwa2ozNnBoNmZlZnNlamYweGF3ajRiMmV0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="80"/>
       <br><b>Visualization</b>
       <br><sub>Creating interactive<br>dashboards & reports</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk0bW4zbTJxdWZhYTkzbzJqOG5vbHE2cDZuN2x2bGR2OWR5ZDJkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="80"/>
       <br><b>Problem Solving</b>
       <br><sub>DSA & competitive<br>programming</sub>
     </td>
@@ -238,6 +367,11 @@ passion: "Transforming raw data into actionable insights
   <a href="https://github.com/mayank2295">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank2295&custom_title=Mayank's%20Contribution%20Graph&bg_color=0D1117&color=8B5CF6&line=6366F1&point=8B5CF6&area_color=6366F1&area=true&hide_border=true" alt="Activity Graph"/>
   </a>
+</p>
+
+<!-- Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayank2295&theme=tokyonight" />
 </p>
 
 <!-- Trophies -->
