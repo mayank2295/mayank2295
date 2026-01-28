@@ -298,39 +298,6 @@ passion: "Transforming raw data into actionable insights
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Coding Profiles Stats -->
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBxZHB5Y2RrdWw5cnlhMnRjZWd4YWplZGZlcmhyaWh4aXNoZ3FpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> Coding Profiles
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://leetcode.com/u/mayankgupta01/">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-        </a>
-        <br><br>
-        <img src="https://leetcard.jacoblin.cool/mayankgupta01?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats"/>
-      </td>
-      <td align="center">
-        <a href="https://takeuforward.org/profile/mayank_2295">
-          <img src="https://img.shields.io/badge/TakeUForward-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-        </a>
-        <br><br>
-        <img src="https://img.shields.io/badge/Striver's_SDE_Sheet-Practicing-FF5722?style=for-the-badge&labelColor=0D1117"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/DSA_Problems-Solving_Daily-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-        <br><br>
-        <a href="https://takeuforward.org/profile/mayank_2295">
-          <img src="https://img.shields.io/badge/View_Profile-→-6366F1?style=for-the-badge&labelColor=0D1117"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- What I Do Section -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> What I Do
 
