@@ -27,6 +27,9 @@
         <a href="https://leetcode.com/u/mayankgupta01/">
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
         </a>
+        <a href="https://takeuforward.org/profile/mayank_2295">
+          <img src="https://img.shields.io/badge/TakeUForward-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
       </p>
       <p>
         <img src="https://komarev.com/ghpvc/?username=mayank2295&style=for-the-badge&color=8B5CF6&labelColor=0D1117" alt="Profile Views"/>
@@ -146,14 +149,6 @@ passion: "Transforming raw data into actionable insights
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot"/>
         <br><b>Spring Boot</b>
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React"/>
-        <br><b>React</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
-        <br><b>Node.js</b>
-      </td>
     </tr>
   </table>
 </div>
@@ -173,10 +168,6 @@ passion: "Transforming raw data into actionable insights
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL"/>
         <br><b>MySQL</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
-        <br><b>PostgreSQL</b>
       </td>
     </tr>
   </table>
@@ -221,6 +212,10 @@ passion: "Transforming raw data into actionable insights
       <td align="center" width="96">
         <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel"/>
         <br><b>Excel</b>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI"/>
+        <br><b>Power BI</b>
       </td>
     </tr>
   </table>
@@ -303,14 +298,35 @@ passion: "Transforming raw data into actionable insights
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- LeetCode Stats -->
-## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="25"> LeetCode Stats
+<!-- Coding Profiles Stats -->
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBxZHB5Y2RrdWw5cnlhMnRjZWd4YWplZGZlcmhyaWh4aXNoZ3FpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> Coding Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/u/mayankgupta01/">
-    <img src="https://leetcard.jacoblin.cool/mayankgupta01?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats"/>
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://leetcode.com/u/mayankgupta01/">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+        </a>
+        <br><br>
+        <img src="https://leetcard.jacoblin.cool/mayankgupta01?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" alt="LeetCode Stats"/>
+      </td>
+      <td align="center">
+        <a href="https://takeuforward.org/profile/mayank_2295">
+          <img src="https://img.shields.io/badge/TakeUForward-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+        <br><br>
+        <img src="https://img.shields.io/badge/Striver's_SDE_Sheet-Practicing-FF5722?style=for-the-badge&labelColor=0D1117"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/DSA_Problems-Solving_Daily-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+        <br><br>
+        <a href="https://takeuforward.org/profile/mayank_2295">
+          <img src="https://img.shields.io/badge/View_Profile-→-6366F1?style=for-the-badge&labelColor=0D1117"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -459,6 +475,10 @@ passion: "Transforming raw data into actionable insights
   &nbsp;
   <a href="https://leetcode.com/u/mayankgupta01/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://takeuforward.org/profile/mayank_2295">
+    <img src="https://img.shields.io/badge/TakeUForward-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="TakeUForward"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/mayank_g2207/">
