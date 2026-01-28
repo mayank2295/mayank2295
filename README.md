@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="35%">
-      <img src="Screenshot 2026-01-28 044618.png" width="100%" style="border-radius: 15px;" alt="Mayank Gupta"/>
+      <img src="profile.png" width="100%" style="border-radius: 15px;" alt="Mayank Gupta"/>
     </td>
     <td width="65%">
       <h2>
@@ -62,7 +62,7 @@ current_role_seeking:
   - Data Scientist
 
 core_skills:
-  - Python | SQL | Java
+  - Python | SQL | Java | C++
   - Machine Learning & Predictive Modeling
   - Data Analysis & Visualization
   - Problem Solving & DSA
@@ -76,180 +76,174 @@ passion: "Transforming raw data into actionable insights
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ==================== ENHANCED TECH STACK SECTION ==================== -->
+<!-- ==================== TECH STACK SECTION ==================== -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Universe
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack
 
-<!-- Animated Tech Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&width=500&lines=%3C%2F%3E+Languages+%26+Frameworks;%F0%9F%A7%AA+Data+Science+Stack;%F0%9F%9B%A0%EF%B8%8F+Tools+I+Work+With" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Languages+%7C+Frameworks+%7C+Tools;Data+Science+%7C+DevOps+%7C+Databases" alt="Tech Stack Typing" />
 </p>
 
-<!-- Languages Section with Glow Effect -->
+<!-- Languages -->
 <h3 align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> 
-  &nbsp;Programming Languages&nbsp;
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25">&nbsp;
+  Languages
+  &nbsp;<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25">
 </h3>
 
-<div align="center">
-  <a href="https://www.python.org/">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
-  </a>
-</div>
-
-<br>
-
-<!-- Animated Progress Bars -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank2295&layout=donut-vertical&theme=tokyonight&bg_color=0D1117&border_color=8B5CF6&title_color=8B5CF6&text_color=FFFFFF&hide_border=false" height="200"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,js,html,css&perline=8&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 <br>
 
-<!-- Data Science & ML Section -->
+<!-- Frameworks -->
 <h3 align="center">
-  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="30"> 
-  &nbsp;Data Science & Machine Learning&nbsp;
-  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25">&nbsp;
+  Frameworks
+  &nbsp;<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25">
+</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,react,nodejs&perline=3&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+<br>
+
+<!-- Databases -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcml6dGZjNmVoMjZ5cmN4NzVuNXc4cDkxYm5jdmIyb2V6NmZkOWMwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftAyb0CG1FNAIZt4SO/giphy.gif" width="25">&nbsp;
+  Databases
+  &nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcml6dGZjNmVoMjZ5cmN4NzVuNXc4cDkxYm5jdmIyb2V6NmZkOWMwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftAyb0CG1FNAIZt4SO/giphy.gif" width="25">
+</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=2&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+<br>
+
+<!-- Data Science -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdsem95Zzl3dGQzMmg1MG9zeWJvN3dqbHRjdnp6enVqcGNhdWVhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25">&nbsp;
+  Data Science & Analytics
+  &nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdsem95Zzl3dGQzMmg1MG9zeWJvN3dqbHRjdnp6enVqcGNhdWVhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25">
 </h3>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
-        <a href="https://pandas.pydata.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-        </a>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
         <br><b>Pandas</b>
       </td>
-      <td align="center" width="96">
-        <a href="https://numpy.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-        </a>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
         <br><b>NumPy</b>
       </td>
-      <td align="center" width="96">
-        <a href="https://scikit-learn.org/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn" />
-        </a>
-        <br><b>Sklearn</b>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.tensorflow.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
-        </a>
-        <br><b>TensorFlow</b>
-      </td>
-      <td align="center" width="96">
-        <a href="https://keras.io/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
-        </a>
-        <br><b>Keras</b>
-      </td>
-      <td align="center" width="96">
-        <a href="https://opencv.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
-        </a>
-        <br><b>OpenCV</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<!-- Data Visualization Section -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"> 
-  &nbsp;Data Visualization & Analytics&nbsp;
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30">
-</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://matplotlib.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
-        </a>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
         <br><b>Matplotlib</b>
       </td>
-      <td align="center" width="96">
-        <a href="https://seaborn.pydata.org/">
-          <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
-        </a>
+      <td align="center" width="100">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
         <br><b>Seaborn</b>
       </td>
-      <td align="center" width="96">
-        <a href="https://plotly.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly" />
-        </a>
-        <br><b>Plotly</b>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/color/48/tableau-software.png" width="45" height="45" alt="Tableau"/>
+        <br><b>Tableau</b>
       </td>
-      <td align="center" width="96">
-        <a href="https://powerbi.microsoft.com/">
-          <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" />
-        </a>
-        <br><b>Power BI</b>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn"/>
+        <br><b>Sklearn</b>
       </td>
-      <td align="center" width="96">
-        <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-          <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel" />
-        </a>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" alt="Excel"/>
         <br><b>Excel</b>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
-
-<!-- Development Tools Section -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> 
-  &nbsp;Development Environment&nbsp;
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30">
-</h3>
-
-<div align="center">
-  <a href="https://github.com/">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
-  </a>
-  <a href="https://jupyter.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50" />
-  </a>
-  <a href="https://colab.research.google.com/">
-    <img src="https://img.icons8.com/color/48/google-colab.png" alt="Colab" width="50" height="50" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
-  </a>
-</div>
-
-<br>
-
-<!-- Animated Skills Banner -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,git,github,vscode,linux&theme=dark&perline=8" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-<!-- Tech Stack Animation -->
+<br>
+
+<!-- Tools & DevOps -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXAwZWtsdWVhZHRpMXRnbjB3Nmw5OWltOWJpN2Y2cWVmazBhYnRpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25">&nbsp;
+  Tools & DevOps
+  &nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXAwZWtsdWVhZHRpMXRnbjB3Nmw5OWltOWJpN2Y2cWVmazBhYnRpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25">
+</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,maven&perline=6&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+</p>
+
+<br>
+
+<!-- Core Competencies -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Q2dGs1aTR2NzE5NnV3cXAxcW9zZGMwbG1vZWc0M2J1OXdyYjhrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="25">&nbsp;
+  Core Competencies
+  &nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Q2dGs1aTR2NzE5NnV3cXAxcW9zZGMwbG1vZWc0M2J1OXdyYjhrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="25">
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠_DSA-Data_Structures_&_Algorithms-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🔗_JDBC-Java_Database_Connectivity-6366F1?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🤖_AI-Artificial_Intelligence-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/⚙️_DevOps-CI/CD_Pipelines-6366F1?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+<!-- Tech Stack Summary Animation -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayank2295&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayank2295&theme=tokyonight" />
@@ -369,7 +363,7 @@ passion: "Transforming raw data into actionable insights
   </a>
 </p>
 
-<!-- Profile Summary Cards -->
+<!-- Profile Summary -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayank2295&theme=tokyonight" />
 </p>
